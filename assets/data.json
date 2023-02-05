@@ -4,35 +4,40 @@
         "name":"Pickachu",
         "age": "12",
         "abilities": "Electro_drive",
-        "type":"Electric"
+        "type":"Electric",
+        "image":"assets/images/pikachu.png"
     },
     {
         "id": 2,
         "name":"Bulbasaur",
         "age": "12",
         "abilities": "Chlorophyll Overgrow",
-        "type":"Grass"
+        "type":"Grass",
+        "image":"assets/images/bulbasaur.png"
     },
     {
         "id": 3,
         "name":"Squirtle",
         "age": "10",
         "abilities": "Torrent Rain_Dash",
-        "type":"Water"
+        "type":"Water",
+        "image":"assets/images/squirtle.png"
     },
     {
         "id": 4,
         "name":"Charmandar",
         "age": "22",
         "abilities": "Fire_Punch",
-        "type":"Fire"
+        "type":"Fire",
+        "image":"assets/images/charmandar.png"
     },
     {
         "id": 5,
         "name":"Gastly",
         "age": "10",
         "abilities": "Levitate",
-        "type":"Ghost"
+        "type":"Ghost",
+        "image":"assets/images/gastly.png"
     }
     
 ]

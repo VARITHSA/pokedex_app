@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
 class Colour {
-  Color bgcolor = const Color(0xffffffff);
-  Color actcolor = const Color(0xffEFEFEF);
-  Color orangeColor = const Color(0xffF57D31);
-  Color blueColor = const Color(0xff6493EB);
-  Color greenColor = const Color(0xff74CB48);
-  Color purpleColor = const Color(0xff70559B);
-  Color pinkColor = const Color(0xffFB5584);
-  Color yellowColor = const Color(0xffF9CF30);
-  Color poisonColor = const Color(0xffA43E9E);
+  static Color bgcolor = const Color(0xffffffff);
+  static Color actcolor = const Color(0xffEFEFEF);
+  static Color orangeColor = const Color(0xffF57D31);
+  static Color blueColor = const Color(0xff6493EB);
+  static Color greenColor = const Color(0xff74CB48);
+  static Color purpleColor = const Color(0xff70559B);
+  static Color pinkColor = const Color(0xffFB5584);
+  static Color yellowColor = const Color(0xffF9CF30);
+  static Color poisonColor = const Color(0xffA43E9E);
 }
